@@ -1,0 +1,11 @@
+C:\Users\Indranil\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.0\SchoolManagementSystem.deps.json
+C:\Users\Indranil\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.0\SchoolManagementSystem.runtimeconfig.json
+C:\Users\Indranil\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.0\SchoolManagementSystem.runtimeconfig.dev.json
+C:\Users\Indranil\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.0\SchoolManagementSystem.dll
+C:\Users\Indranil\source\repos\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\netcoreapp2.0\SchoolManagementSystem.pdb
+C:\Users\Indranil\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.0\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Indranil\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.0\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Indranil\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.0\SchoolManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Indranil\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.0\SchoolManagementSystem.AssemblyInfo.cs
+C:\Users\Indranil\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.0\SchoolManagementSystem.dll
+C:\Users\Indranil\source\repos\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\netcoreapp2.0\SchoolManagementSystem.pdb
