@@ -1,7 +1,10 @@
-﻿namespace SchoolManagementSystem.Models.Entities
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace SchoolManagementSystem.Models.Entities
 {
     public class Subject
     {
+        [Key]
         public int SubjectID { get; set; }
         public string SubjectCode { get; set; }
         public string SubjectName { get; set; }
